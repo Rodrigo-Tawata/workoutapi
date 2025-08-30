@@ -1,0 +1,17 @@
+# Ignorar ambiente virtual
+venv/
+workoutapi/
+.env/
+
+# Ignorar caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configs do VSCode
+.vscode/
